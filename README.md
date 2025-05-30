@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toseeb2608
+- 👋 Hi, I’m Toseeb Beg
 - 👀 I’m interested in AI , Mobile Dev , Web Dev , ML basically everything related to tech.
 - 🌱 I’m currently learning DSA , System Design , Web  Development
 - 💞️ I’m looking to collaborate on whatever you want , if it is intresting.
